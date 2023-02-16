@@ -13,7 +13,7 @@ class GeneratedMobileWidget1 extends StatelessWidget {
       style: TextStyle(
         height: 1.2102272510528564,
         fontSize: 12.0,
-        fontFamily: 'Inter',
+        fontFamily: 'Lato',
         fontWeight: FontWeight.w600,
         color: Color.fromARGB(255, 91, 177, 183),
 

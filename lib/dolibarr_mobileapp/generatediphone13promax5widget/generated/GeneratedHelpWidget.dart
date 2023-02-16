@@ -13,7 +13,7 @@ class GeneratedHelpWidget extends StatelessWidget {
       style: TextStyle(
         height: 1.2102272851126534,
         fontSize: 14.0,
-        fontFamily: 'Inter',
+        fontFamily: 'Lato',
         fontWeight: FontWeight.w600,
         color: Color.fromARGB(255, 5, 56, 128),
 

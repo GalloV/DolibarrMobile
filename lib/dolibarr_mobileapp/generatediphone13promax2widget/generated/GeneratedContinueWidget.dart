@@ -13,7 +13,7 @@ class GeneratedContinueWidget extends StatelessWidget {
       style: TextStyle(
         height: 1.2102272033691406,
         fontSize: 20.0,
-        fontFamily: 'Inter',
+        fontFamily: 'Lato',
         fontWeight: FontWeight.w900,
         color: Color.fromARGB(255, 255, 255, 255),
 

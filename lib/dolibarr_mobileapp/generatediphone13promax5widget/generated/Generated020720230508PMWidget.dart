@@ -13,7 +13,7 @@ class Generated020720230508PMWidget extends StatelessWidget {
       style: TextStyle(
         height: 1.2102272851126534,
         fontSize: 14.0,
-        fontFamily: 'Inter',
+        fontFamily: 'Lato',
         fontWeight: FontWeight.w400,
         color: Color.fromARGB(255, 35, 43, 55),
 

@@ -13,7 +13,7 @@ class GeneratedEllipse1Widget extends StatelessWidget {
       decoration: BoxDecoration(
         boxShadow: [
           BoxShadow(
-            color: Color.fromARGB(63, 0, 0, 0),
+            color: Color.fromARGB(10, 0, 0, 0),
             offset: Offset(0.0, 0.0),
             blurRadius: 11.0,
           )

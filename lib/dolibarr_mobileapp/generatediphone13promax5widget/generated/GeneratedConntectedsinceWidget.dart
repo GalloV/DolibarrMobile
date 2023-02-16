@@ -13,7 +13,7 @@ class GeneratedConntectedsinceWidget extends StatelessWidget {
       style: TextStyle(
         height: 1.2102272327129657,
         fontSize: 13.0,
-        fontFamily: 'Inter',
+        fontFamily: 'Lato',
         fontWeight: FontWeight.w500,
         color: Color.fromARGB(255, 145, 149, 155),
 

@@ -13,7 +13,7 @@ class GeneratedProductsWidget1 extends StatelessWidget {
       style: TextStyle(
         height: 1.2102272033691406,
         fontSize: 20.0,
-        fontFamily: 'Inter',
+        fontFamily: 'Lato',
         fontWeight: FontWeight.w700,
         color: Color.fromARGB(255, 255, 255, 255),
 

@@ -13,7 +13,7 @@ class GeneratedMascaraWidget extends StatelessWidget {
       style: TextStyle(
         height: 1.2102272510528564,
         fontSize: 16.0,
-        fontFamily: 'Inter',
+        fontFamily: 'Lato',
         fontWeight: FontWeight.w700,
         color: Color.fromARGB(255, 0, 0, 0),
 

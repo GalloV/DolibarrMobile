@@ -6,6 +6,8 @@ import 'package:dolibarr_mobile/dolibarr_mobileapp/generatediphone13promax5widge
 import 'package:dolibarr_mobile/dolibarr_mobileapp/generatediphone13promax6widget/GeneratedIPhone13ProMax6Widget.dart';
 import 'package:dolibarr_mobile/dolibarr_mobileapp/generatediphone13promax8widget/GeneratedIPhone13ProMax8Widget.dart';
 
+import 'dolibarr_mobileapp/generatediphone13promax6widget/generated/GeneratedRougeLvresWidget.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -15,6 +17,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    makeRequest();
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
